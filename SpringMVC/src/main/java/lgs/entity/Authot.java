@@ -29,7 +29,7 @@ public class Authot {
 	}
 	public void setId(int id) {
 		this.id = id;
-	}
+	}                                      //lala
 	public String getName() {
 		return name;
 	}
